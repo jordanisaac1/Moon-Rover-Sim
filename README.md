@@ -1,4 +1,8 @@
 # Moon-Rover-Sim
+
+# Video
+[![Moon Rover Video](https://img.youtube.com/vi/lfZK4wQYeGU/0.jpg)](https://www.youtube.com/watch?v=lfZK4wQYeGU)
+
 # Autonomous Moon Rover Simulation
 
 Welcome to my Autonomous Moon Rover Simulation project. My project simulates a rover that traverses the lunar surface, equipped with (simulated) sensors and AI to make real-time decisions and plan its route dynamically using the A* algorithm. This simulation aims to display possible uses of pathfinding algorithms while introducing real time changes, providing valuable insights into how robots can navigate and study extraterrestrial terrains independently.
